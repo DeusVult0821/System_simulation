@@ -1,0 +1,5 @@
+Pygame Window Setup - Erik
+Creating Planets, Initializing planets(Using Real Values) - Alikhan
+Moving Planets Explanation (Math & Physics) - Abiy 
+Implementing Movement Physics - Sardar 
+Drawing orbits, drawing Distance To Sun - Sardor
